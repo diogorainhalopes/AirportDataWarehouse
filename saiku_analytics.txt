@@ -1,0 +1,5 @@
+1) passengers and revenue by airline and month
+2) airplane type and month of departure by month of arrival 
+    (2 airplane types departed in july and arrived in august)
+3) how much money spent/gained on flights between countries 
+    (on the 10 days with highest revenue)
